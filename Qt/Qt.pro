@@ -2,4 +2,5 @@ TEMPLATE = subdirs
 
 
 SUBDIRS += \
-    AbstractItemModel
+    AbstractItemModel \
+    Internationalization
