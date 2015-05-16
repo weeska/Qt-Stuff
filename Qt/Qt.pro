@@ -3,4 +3,5 @@ TEMPLATE = subdirs
 
 SUBDIRS += \
     AbstractItemModel \
-    Internationalization
+    Internationalization \
+    CommandLineParser
