@@ -4,4 +4,5 @@ TEMPLATE = subdirs
 SUBDIRS += \
     AbstractItemModel \
     Internationalization \
-    CommandLineParser
+    CommandLineParser \
+    StorageInfo
