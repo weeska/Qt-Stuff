@@ -5,4 +5,5 @@ SUBDIRS += \
     AbstractItemModel \
     Internationalization \
     CommandLineParser \
-    StorageInfo
+    StorageInfo \
+    EnumCasting
